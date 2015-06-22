@@ -1,0 +1,13 @@
+Script started on Fri 14 Feb 2014 09:58:03 PM EST
+hkim142@matrix:~/oop344/Workshop/W2> whoa[Kami
+hkim142
+hkim142@matrix:~/oop344/Workshop/W2> g++ -o w2 w2..c[K[Kcpp [K
+hkim142@matrix:~/oop344/Workshop/W2> w2
+Process time for i is 9.6 secs
+Process time for d is 4.73 secs
+Process time for s is 5.05 secs
+Process time for y is 5.03 secs
+hkim142@matrix:~/oop344/Workshop/W2> exit
+exit
+
+Script done on Fri 14 Feb 2014 10:03:39 PM EST
